@@ -1,0 +1,11 @@
+username,password,firstname,lastname,ou,email,streetaddress,city,zipcode,state,country,jobtitle,company,department
+jdoe,Microsoft$2023,John,Doe,"OU=HR,DC=cwp,DC=inside",john.doe@cwp.inside,,,,,,Technician,Techjack,HR
+asmith,Microsoft$2023,Anna,Smith,"OU=HR,DC=cwp,DC=inside",anna.smith@cwp.inside,,,,,,Technician,Techjack,HR
+bwilliams,Microsoft$2023,Brian,Williams,"OU=IT,DC=cwp,DC=inside",brian.williams@cwp.inside,,,,,,Technician,Techjack,IT
+cjohnson,Microsoft$2023,Chloe,Johnson,"OU=IT,DC=cwp,DC=inside",chloe.johnson@cwp.inside,,,,,,Technician,Techjack,IT
+dlee,Microsoft$2023,David,Lee,"OU=IT,DC=cwp,DC=inside",david.lee@cwp.inside,,,,,,Technician,Techjack,IT
+egarcia,Microsoft$2023,Emma,Garcia,"OU=Marketing,DC=cwp,DC=inside",emma.garcia@cwp.inside,,,,,,Technician,Techjack,Marketing
+fmartin,Microsoft$2023,Frank,Martin,"OU=Marketing,DC=cwp,DC=inside",frank.martin@cwp.inside,,,,,,Technician,Techjack,Marketing
+hclark,Microsoft$2023,Hannah,Clark,"OU=HR,DC=cwp,DC=inside",hannah.clark@cwp.inside,,,,,,Technician,Techjack,HR
+ijones,Microsoft$2023,Ian,Jones,"OU=IT,DC=cwp,DC=inside",ian.jones@cwp.inside,,,,,,Technician,Techjack,IT
+kwhite,Microsoft$2023,Kate,White,"OU=Marketing,DC=cwp,DC=inside",kate.white@cwp.inside,,,,,,Technician,Techjack,Marketing
